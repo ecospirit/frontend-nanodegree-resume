@@ -76,7 +76,6 @@ h5 {
   color: #999;
   line-height: 16px;
   float: right;
-
 }
 
 p {
@@ -127,9 +126,8 @@ a {
   background-color: #4a4a4a;
 }
 
-/* TODO: Replace with image later */
 #header {
-  background-color: #484848;
+  background-color: #808000;
 }
 
 .flex-box {
@@ -152,7 +150,7 @@ ul {
 .biopic {
   float: left;
   padding: 10px;
-  width: 200px;
+  width: 150px;
   display: none;
 }
 
@@ -162,8 +160,8 @@ img {
 
 span {
   padding: 5px;
-}
-
+} 
+    
 #lets-connect {
   text-align: center;
 }
